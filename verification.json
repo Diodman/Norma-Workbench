@@ -1,0 +1,19 @@
+[
+  {
+    "server": "Node.js",
+    "http_checks": "passed",
+    "nodes": 298,
+    "edges": 560
+  },
+  {
+    "server": "Python",
+    "http_checks": "passed",
+    "nodes": 298,
+    "edges": 560
+  },
+  {
+    "compiled_frontend": "identical to published build",
+    "credentials_and_hosting_metadata": "excluded",
+    "windows_powershell": "not executed on Linux"
+  }
+]
